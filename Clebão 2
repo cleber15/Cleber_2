@@ -1,0 +1,835 @@
+#EXTINF:
+--------------------------------------------------------REDE GLOBO------------------------------------------------------------------------
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO 4K
+http://ev7cm.com:25461/Henrique/123456/5500
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+dtv://antenna:29/atsc/4/1
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO
+http://top.hatv.me:2095/dtv_561535/QpBGAaq0/44228
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RPC FOZ DO IGUACU" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RPC FOZ DO IGUACU
+http://ev7cm.com:25461/Henrique/123456/498
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO BAHIA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO BAHIA
+http://ev7cm.com:25461/Henrique/123456/44909
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO EPTV CAMPINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV CAMPINAS
+http://ev7cm.com:25461/Henrique/123456/502
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO EPTV CAMPINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV CAMPINAS
+http://ev7cm.com:25461/Henrique/123456/501
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO EPTV CAMPINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO EPTV CAMPINAS
+http://ev7cm.com:25461/Henrique/123456/44917
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO INTER TV CABUGI (RN)" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO INTER TV CABUGI (RN)
+http://ev7cm.com:25461/Henrique/123456/44914
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO MINAS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO MINAS HD
+http://ev7cm.com:25461/Henrique/123456/5774
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO MINAS HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO MINAS HD
+http://ev7cm.com:25461/Henrique/123456/44838
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo NSC Joinville" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo NSC Joinville
+http://ev7cm.com:25461/Henrique/123456/44821
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO NSC SC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO NSC SC
+http://ev7cm.com:25461/Henrique/123456/84612
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO NSC TV FLORIANOPOLIS
+http://ev7cm.com:25461/Henrique/123456/281
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="GloboRBSTVPoa.br" tvg-name="GLOBO RBS PORTO ALEGRE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RBS PORTO ALEGRE
+http://ev7cm.com:25461/Henrique/123456/44912
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RIBEIRAO PRETO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RIBEIRAO PRETO
+http://ev7cm.com:25461/Henrique/123456/511
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+http://ev7cm.com:25461/Henrique/123456/514
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+http://ev7cm.com:25461/Henrique/123456/5778
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO RJ
+http://ev7cm.com:25461/Henrique/123456/44910
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
+http://ev7cm.com:25461/Henrique/123456/5845
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
+http://ev7cm.com:25461/Henrique/123456/40059
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
+http://ev7cm.com:25461/Henrique/123456/5846
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO SP
+http://ev7cm.com:25461/Henrique/123456/44908
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV BAHIA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV BAHIA
+http://ev7cm.com:25461/Henrique/123456/44841
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV BELEM LIBERAL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV BELEM LIBERAL
+http://ev7cm.com:25461/Henrique/123456/521
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV MORENA PONTA PORA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV MORENA PONTA PORA
+http://ev7cm.com:25461/Henrique/123456/14015
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV RIO SUL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV RIO SUL
+http://ev7cm.com:25461/Henrique/123456/522
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO TV S.J. RIO PRETO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO TV S.J. RIO PRETO
+http://ev7cm.com:25461/Henrique/123456/44945
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="GLOBO VERDES MARES FORTALEZA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",GLOBO VERDES MARES FORTALEZA
+http://ev7cm.com:25461/Henrique/123456/44901
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo HD BR
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175064
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Rio De Janeiro" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Rio De Janeiro HD BR
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175058
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Minas" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Minas HD BR
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175063
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Nordeste" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Nordeste HD BR
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175062
+#EXTINF:-1 group-title="REDE GLOBO" tvg-id="RedeGlobo.br" tvg-name="Globo Sao Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/globo_m.jpg",Globo Sao Paulo HD BR
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175061
+
+--------------------------------------------------------BBB 21------------------------------------------------------------------------
+#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
+#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
+http://lista.lorddark.club/5247/5247/203816
+#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
+http://lista.lorddark.club/5247/5247/203815
+#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
+http://lista.lorddark.club/5247/5247/203814
+#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
+http://lista.lorddark.club/5247/5247/203813
+#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
+http://lista.lorddark.club/5247/5247/203812
+#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
+http://lista.lorddark.club/5247/5247/203811
+#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
+http://lista.lorddark.club/5247/5247/201343
+#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
+http://lista.lorddark.club/5247/5247/201344
+#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
+http://lista.lorddark.club/5247/5247/201342
+#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
+http://lista.lorddark.club/5247/5247/201341
+#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21
+http://lista.lorddark.club/5247/5247/201345
+#EXTINF:-1 group-title="BBB21" tvg-name="BBB21" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2021/01/bbb-globo-418x235.jpg",BBB21 MULTICAMARA
+http://lista.lorddark.club/5247/5247/203817
+
+--------------------------------------------------------TV ABERTA ESTADUAL------------------------------------------------------------------------
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="1001noites.br" tvg-name="1001 NOITES CB PA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12459c087c0824aa386ecd10b4e0336d.png",1001 NOITES CURITIBA
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1155072.m3u8
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" tvg-url="" group-title="TV ABERTA ESTADUAL",AGROBRASIL TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="araguaiatv.br" tvg-name="ARAGUAIA TV TO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bdb8624712ed607877388dc76d175572.png", ARAGUAIA TV TOCANTINS
+http://video01.kshost.com.br/mayra5349/mayra5349/chunklist_w664830170.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="brazilTV.br" tvg-name="BRAZIL TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/azTiRz2.jpg",BRAZIL TV
+https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="Canal25Jundiai.br" tvg-name="Canal 25 Jundiaí" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/9SjoGWj.png",CANAL 25 Jundiaí
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="canal29.br" tvg-name="CANAL 29" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/iQ5Umwj.jpg",CANAL 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRicos.br" tvg-name="Canal Ricos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/De6ty9h.png" tvg-url="" group-title="TV ABERTA ESTADUAL",CANAL RICOS
+https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="centraltv.br" tvg-name="CENTRAL TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6QcsihL.jpg",CENTRAL TV
+http://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="conectamaiswebtv.br" tvg-name="CONECTA MAIS WEB TV RS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/021892b11d9126ac3ab19f643cff0760.jpg", CONECTA MAIS WEB TV RS
+http://189.14.233.254:1935/WebTV/WebTV.stream/chunklist_w2009062131.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="cultura.br" tvg-name="CULTURA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png",CULTURA
+https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="culturapara.br" tvg-name="Cultura Pará" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5jPEI5c.png",CULTURA PARÁ
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="impdtv.br" tvg-name="IMPD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/EKVEL4H.png",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="londrinatv.com" tvg-name="LONDRINA TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yfXcjuE.png",LONDRINA TV
+https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="redebrasil.br" tvg-name="REDE BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Xet7Gr2.png",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvmarajoara.br" tvg-name="REDE BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3XdPAU0.png",REDE BRASIL - TV MARAJOARA (PA)
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="redeminas.br" tvg-name="REDE MINAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Tgov03S.jpg",REDE MINAS
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="rede CANAIS PREMIUM tv" tvg-name="REDE CANAIS PREMIUM TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://redeCANAIS PREMIUMtv.com.br/wp-content/uploads/2018/10/logo-site1-2.png",REDE CANAIS PREMIUM TV
+https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist-480p.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="redesuper.br" tvg-name="REDE SUPER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/vD69bN7.png",REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="redetv.br" tvg-name="REDE TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cbPSlD7.png",REDETV! TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="redetv.br" tvg-name="REDE TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/8fGmJWA.png",REDETV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="toptv.br" tvg-name="TOP TV PARANÁ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GQgWuoU.png",TopTV Paraná
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:-1 tvg-id="itv na faixa" tvg-name="ITV NA FAIXA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" tvg-url="" group-title="TV ABERTA ESTADUAL",ITV NA FAIXA
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1 tvg-id="rederc.com.br" tvg-name="Rede RC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/nc95BPy.png" tvg-url="" group-title="TV ABERTA ESTADUAL",Rede RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 tvg-id="summertv.net" tvg-name="Summer TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YrBt8gZ.png" tvg-url="" group-title="TV ABERTA ESTADUAL",Summer TV
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvabertanacional.br" tvg-name="TV ABERTA NACIONAL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1pZUGb4.png",TV ABERTA NACIONAL SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Ambiental" tvg-name="TV Ambiental" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Gpg1TMu.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Ambiental
+http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvbirigui.br" tvg-name="TV BIRIGUI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cefSiod.jpg",TV Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvbrasiloeste.br" tvg-name="TV BRASIL OESTE MT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c1d1eb3bc05b457cfcf7a88d4fb23497.jpg", TV BRASIL OESTE MT
+https://5ad482a77183d.streamlock.net/operacaotbomt.com.br/operacaotbomt.com.br/chunklist_w873212661.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvbrusque.br" tvg-name="TV BRUSQUE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/deYohgq.jpg",TV Brusque (SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvcamara.br" tvg-name="TV CAMARA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xk20dyv.png",TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvcapital.br" tvg-name="TV CAPITAL PI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44520b89da519167d36028236bc32b81.jpg", TV CAPITAL PI
+https://stmv3.samcast.com.br/tvcapitalteresina/tvcapitalteresina/chunklist_w650711743.m3u8
+#EXTINF:-1 tvg-id="tvcarioca.net" tvg-name="TV Carioca" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" tvg-url="tvcarioca.net" group-title="TV ABERTA ESTADUAL",TV CARIOCA
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w925246066.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="TVcidade10.br" tvg-name="TV CIDADE 10 RS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e82f0d2593874e1e31bc5a7cdf607848.jpg", TV CIDADE 10 RS
+https://video-rvd-df-gw-1-2.rnp.br/live/ocp(t(FnKvruLHYRU)r(fVR9ug)a(tS4JQg)p(d(2xc)k(q8Y)m(E_jdrT7e-TMcDy1IN4LM7g)n(a(bXbiEQ)s(cyI)'a(0IEnIQ)s(9B8)))s(s(th8)b(bq_IEm8CHiFjmQZ-bmQXEhBjcIb2tzGeXbNqUV0cLeqB90N1aTsExit9Si6xqZFBxBIs-PFxmAM9rQa2JA)'s(jps)b(5SHgLbzyahyDRfHSqdPMb6C3p-SEHS0rEN2Ul2dH26WYppCrOhyqt1T-MfekTKqRdKj6hGMtX6UMFC0rd-7sOBlzrfSQI1Z-sDqtriaW)'s(-wM)b(ynkDU3Uu))m(0))/1_index.m3u8
+#EXTINF:-1 tvg-id="TVCidade.com" tvg-name="TV Cidade FO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_TV_Cidade_%28S%C3%A3o_Lu%C3%ADs%29.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Cidade FO
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCidadedePetropolis.br" tvg-name="TV Cidade de Petrópolis" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Logotipo_da_TV_Cidade_%28S%C3%A3o_Lu%C3%ADs%29.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Cidade de Petrópolis (720p)
+https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvcultura.br" tvg-name="TV CULTURA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/BFekw0L.png",TV CULTURA - TV FUTURO (RJ)
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Digital Birigui" tvg-name="TV Digital Birigui" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VqIzaFz.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvdestak.br" tvg-name="TV DESTAK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/W1LutVP.png",TV DESTAK
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvestado.br" tvg-name="TV ESTADO BA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/094ee183e712ba5e8ac1a7c8a6d8ac57.png",TV ESTADO BA
+https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-id="tvgalega.com.br" tvg-name="TV Galega Blumenau" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV GALEGA BLUMENAU
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvgermana.br" tvg-name="TV GERMANA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/104124481f02f8448eee689ec3064636.png",TV GERMANA
+https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w1344761170.m3u8
+#EXTINF:-1 tvg-id="tvinterlagos.com.br" tvg-name="TV Interlagos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Interlagos
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tviracema.br" tvg-name="TV IRACEMA FO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a9a8f01189ff6702182975edb02bab0.jpg", TV IRACEMA FO
+https://stmv1.srvstm.com/iracematv/iracematv/chunklist_w1042223437.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvmanchete.br" tvg-name="TV MANCHETE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VeELX7K.png",TV Manchete
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvmanchete.br" tvg-name="TV MANCHETE BAHIA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VeELX7K.png",TV Manchete Bahia
+https://stmv1.srvif.com/manchetebahia/manchetebahia/chunklist_w1255147414.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvmanchete.br" tvg-name="TV MANCHETE ALAGOAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VeELX7K.png",TV Manchete Alagoas
+https://stmv1.srvif.com/tvmanchete1/tvmanchete1/chunklist_w1256852661.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvmax.br" tvg-name="TV MAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png",TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvmetropole.br" tvg-name="TV METROPOLE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/bnqpHAs.png",TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvmon.br" tvg-name="TV MON" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/j7EJvHr.png",TV Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Sol Comunidade" tvg-name="TV Sol Comunidade" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TV Sol Comunidade
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvpampa.br" tvg-name="TV PAMPA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/afeOjrn.png",TV Pampa - RedeTV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvpantanalms.com.br" tvg-name="TV PANTANAL MS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/0FOmktl.png",TV Pantanal MS
+https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvpantanalcba.com.br" tvg-name="TV PANTANAL MT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2475c2c97a49f21a5db5b40763d85d8.png",TV Pantanal MT
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w1595845833.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvtremembe.br" tvg-name="TV TREMEMBE CE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dc313ddd3bc4d8de0f5939ee8410a56e.jpg", TV TREMEMBE CE
+https://5e36c064a2f6a.streamlock.net:1936/8380/8380/chunklist_w1549450326.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvtspb.br" tvg-name="TV TSPB" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/532e31767c73f49137e7377acdd22a72.png",TV TSPB 
+https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvturismo.br" tvg-name="TV Turismo PARANÁ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tYbG4bn.png",TV TURISMO PARANÁ
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvuniao.br" tvg-name="TV UNIÃO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WKylcVp.png",TV União (DF)
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvverdescampossat.com" tvg-name="TV VERDES CAMPOS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/BFCvf4s.png",TV Verdes Campos SAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tvzoom.br" tvg-name="TV ZOOM NOVA FRIBURGO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b9e29405fcb5d0ea24baa173a953c256.jpg",TV ZOOM NOVA FRIBURGO
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/800px-TVE_Bahia_logo.svg.png" tvg-url="" group-title="TV ABERTA ESTADUAL",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tve.br" tvg-name="TVE BAHIA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ewJjke2.jpg",TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="tve.br" tvg-name="TVE RS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PjOVAfw.png",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="unisultv.br" tvg-name="UNISUL TV RS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8beb9f24c539ff0a79fdafc042ab1403.png", UNISUL TV RS
+https://hls.brasilstream.com.br/live/sitetv/sitetv/mono.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="viamorena.br" tvg-name="VIA MORENA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/pm1UWb0.png",Via Morena
+https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA ESTADUAL" tvg-id="virtualtv.br" tvg-name="VIRTUAL TV PR" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/38f1a6d7cbee0c2ad50deaa3d80efafc.png", VIRTUAL TV PR
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w10453154.m3u8
+
+--------------------------------------------------------TV ABERTA NACIONAL------------------------------------------------------------------------
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1312747290.m3u8
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1297206351.m3u8
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1312747292.m3u8
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
+dtv://antenna:35/atsc/7/1
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND HD
+http://ev7cm.com:25461/Henrique/123456/58895
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND
+http://ev7cm.com:25461/Henrique/123456/44933
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND SP
+http://ev7cm.com:25461/Henrique/123456/70077
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND SP HD
+http://ev7cm.com:25461/Henrique/123456/254
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Band.br" tvg-name="BAND" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandeirantes_m.png",BAND SP SD
+http://ev7cm.com:25461/Henrique/123456/255
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="record.br" tvg-name="RECORD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png",RecordTV RJ
+http://ev7cm.com:25461/Henrique/123456/625
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="record.br" tvg-name="RECORD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png",RecordTV Manaus
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175059
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="record.br" tvg-name="RECORD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png",RecordTV Natal
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="record.br" tvg-name="RECORD TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TD6ZJoa.png",RecordTV Natal
+dtv://antenna:39/atsc/13/1
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="RecordTV.br" tvg-name="Record TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQHKtiWmNhpj1dmwpr67axDnVmESB6E1Q5A&usqp=CAU",RECORD TV
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="Redetv.br" tvg-name="Rede TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/unl8x8o927451.jpg", REDE TV 
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT PI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT RS HD
+http://ev7cm.com:25461/Henrique/123456/454
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT PI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT PE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT GO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT - TV Serra Dourada - (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="sbt.br" tvg-name="SBT PA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/WIDNIqB.png",SBT Tailândia (PA)
+https://5e36c064a2f6a.streamlock.net:1936/8040/8040/playlist.m3u8
+#EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="SBT.br" tvg-name="SBT PI" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT Pi 
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1957861479.m3u8
+#EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="sbtPI.br" tvg-name="SBT PI" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT Pi
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w649577006.m3u8
+#EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="sbtPI.br" tvg-name="SBT PI" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT Pi
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1271577768.m3u8
+#EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="sbtPI.br" tvg-name="SBT PI" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT Pi
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist.m3u8
+#EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w545419196_b1000000.m3u8
+#EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="SBT.br" tvg-name="SBT" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "https://i.redd.it/iyqp94n995451.jpg",SBT
+dtv://antenna:24/atsc/11/1
+#EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "", TV Difusora
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w156509669.m3u8
+#EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "", TV Difusora
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w156509668.m3u8
+#EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "", TV Difusora
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globosphd/video.m3u8?md5=8VNp96oHT6RvsHpi5wyIag&expires=1616504403
+#EXTINF: -1 group-title="TV ABERTA NACIONAL" tvg-id="TVDIFUSORA.br" tvg-name="TvDifusora" tvg-country="BR" tvg-language="Portuguese" tvg-logo= "", TV Difusora
+http://top.hatv.me:2095/dtv_561535/QpBGAaq0/44227  
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w2061380755.m3u8
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w2061380754.m3u8
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA 
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w2061380752.m3u8
+#EXTINF:-1 group-title="TV ABERTA NACIONAL" tvg-id="TVGazeta.br" tvg-name="Tv Gazeta" tvg-country="BR" tvg-language="Portuguese" tvg-logo ="https://i.redd.it/fzmremzauuy51.jpg", TV GAZETA
+http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w2061380753.m3u8
+
+--------------------------------------------------------CANAIS DE COMÉDIAS---------------------------------------------------------------
+#EXTINF:-1 group-title="COMÉDIAS" tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_comedy-central_m.png",COMEDY CENTRAL
+http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="COMÉDIAS" tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_comedy-central_m.png",COMEDY CENTRAL FHD
+http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="COMÉDIAS" tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_multishow_m.png",MULTISHOW FHD
+http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8
+#EXTINF:-1 group-title="COMÉDIAS" tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_multishow_m.png",MULTISHOW FHD
+http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_4783/playlist.m3u8
+#EXTINF:-1 group-title="COMÉDIAS" tvg-id="5f36f2346ede750007332d11" tvg-name="PORTA DOS FUNDOS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png",Porta dos Fundos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+--------------------------------------------------------CANAIS DE DOCUMENTÁRIOS-------------------------------------------------------------------
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET
+http://fresat.live:8080/alvaro/alvaro/365470
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET
+http://ev7cm.com:25461/Henrique/123456/234
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET
+http://ev7cm.com:25461/Henrique/123456/44937
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/APL.png",ANIMAL PLANET
+http://ev7cm.com:25461/Henrique/123456/235
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Arte1.br" tvg-name="ARTE 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/aDZ",ARTE 1
+http://fresat.live:8080/alvaro/alvaro/365479
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
+http://fresat.live:8080/alvaro/alvaro/365431
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175151
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery_m.png",DISCOVERY CHANNEL FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175014
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.NF2RlVbRYnUNHvVrQMyHVQHaEc&pid=Api&P=0&w=276&h=166",DISCOVERY CIVILIZATION
+http://ev7cm.com:25461/Henrique/123456/314
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.NF2RlVbRYnUNHvVrQMyHVQHaEc&pid=Api&P=0&w=276&h=166",DISCOVERY CIVILIZATION
+http://ev7cm.com:25461/Henrique/123456/316
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.NF2RlVbRYnUNHvVrQMyHVQHaEc&pid=Api&P=0&w=276&h=166",DISCOVERY CIVILIZATION
+http://ev7cm.com:25461/Henrique/123456/318
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
+http://ev7cm.com:25461/Henrique/123456/336
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
+http://ev7cm.com:25461/Henrique/123456/320
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryHealth.br" tvg-name="DISCOVERY HOME & HEALTH " tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1_m.png",DISCOVERY HOME & HEALTH FHD
+http://fresat.live:8080/alvaro/alvaro/365432
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
+http://ev7cm.com:25461/Henrique/123456/333
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
+http://ev7cm.com:25461/Henrique/123456/334
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
+http://ev7cm.com:25461/Henrique/123456/5800
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
+http://ev7cm.com:25461/Henrique/123456/44928
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-science-brazil_m.png",DISCOVERY SCIENCE FHD
+http://fresat.live:8080/alvaro/alvaro/365433
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1255384-large.jpg?v=19",DISCOVERY THEATER
+http://ev7cm.com:25461/Henrique/123456/337
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTheater.br" tvg-name="DISCOVERY THEATER" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://s3.amazonaws.com/eventimages/events/43104/items/1255384-large.jpg?v=19",DISCOVERY THEATER
+http://ev7cm.com:25461/Henrique/123456/338
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
+http://ev7cm.com:25461/Henrique/123456/341
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
+http://ev7cm.com:25461/Henrique/123456/342
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO FHD
+http://fresat.live:8080/alvaro/alvaro/365434
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD FHD
+http://ev7cm.com:25461/Henrique/123456/344
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD FHD
+http://ev7cm.com:25461/Henrique/123456/345
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryWorld.br" tvg-name="DISCOVERY WORLD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png",DISCOVERY WORLD FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175145
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="FoodNetwork.br" tvg-name="FOOD NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_food-network_m.png",FOOD NETWORK FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175135
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HGTV.br" tvg-name="HGTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/HGT.png",HGTV FHD
+http://ev7cm.com:25461/Henrique/123456/140822
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HGTV.br" tvg-name="HGTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/HGT.png",HGTV
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175112
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HGTV.br" tvg-name="HGTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/HGT.png",HGTV FHD
+http://ev7cm.com:25461/Henrique/123456/140823
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
+http://fresat.live:8080/alvaro/alvaro/365445
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
+http://ev7cm.com:25461/Henrique/123456/44897
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
+http://ev7cm.com:25461/Henrique/123456/552
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="HistoryChannel.br" tvg-name="HISTORY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_history-channel_m.png",HISTORY CHANNEL FHD
+http://ev7cm.com:25461/Henrique/123456/119
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="History2.br" tvg-name="History Channel 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",HISTORY CHANNEL 2 FHD
+http://fresat.live:8080/alvaro/alvaro/365474
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="History2.br" tvg-name="History Channel 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CH1.png",HISTORY CHANNEL 2 FHD
+http://ev7cm.com:25461/Henrique/123456/44898
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Investigation Discovery.br" tvg-name="ID Investigation Discovery" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",ID INVESTIGATION DISCOVERY FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175110
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="Investigation Discovery.br" tvg-name="ID Investigation Discovery" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_investigac-o-discovery_m.png",ID INVESTIGATION DISCOVERY FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175010
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC FHD
+http://ev7cm.com:25461/Henrique/123456/583
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC HD
+http://ev7cm.com:25461/Henrique/123456/584
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC HD
+http://ev7cm.com:25461/Henrique/123456/124
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC HD
+http://ev7cm.com:25461/Henrique/123456/44891
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC
+http://ev7cm.com:25461/Henrique/123456/585
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NationalGeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_national-geographic_m.png",NATIONAL GEOGRAPHIC
+http://ev7cm.com:25461/Henrique/123456/44890
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGEoWild.br" tvg-name="NATGEO WILD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175102
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGEoWild.br" tvg-name="NATGEO WILD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_natgeo-wild-hd_m.png",NATGEO WILD FHD
+*********************************************
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGeoWild.br" tvg-name="NATGEO WILD HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/NATGEOWILD.jpg",NATGEO WILD HD
+http://ev7cm.com:25461/Henrique/123456/581
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="NatGeoWild.br" tvg-name="NATGEO WILD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/NATGEOWILD.jpg",NATGEO WILD
+http://ev7cm.com:25461/Henrique/123456/582
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTLC.br" tvg-name="DISCOVERY TLC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg",DISCOVERY TLC FHD
+http://ev7cm.com:25461/Henrique/123456/68548
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-id="DiscoveryTLC.br" tvg-name="DISCOVERY TLC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tlc_logo_discovery.jpg/800px-Tlc_logo_discovery.jpg",DISCOVERY TLC
+http://ev7cm.com:25461/Henrique/123456/340
+
+--------------------------------------------------------ESPORTES-------------------------------------------------------------------
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png",Band Sports
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175161
+#EXTINF:-1 group-title="ESPORTES" tvg-id="bandsports.br" tvg-name="BAND SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png",Band Sports
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175160
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Combate.br" tvg-name="COMBATE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_combate-hd_m.png",COMBATE
+http://fresat.live:8080/alvaro/alvaro/365430
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Combate.br" tvg-name="COMBATE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_combate-hd_m.png",COMBATE
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175153
+#EXTINF:-1 group-title="ESPORTES" tvg-id="espn" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175018
+#EXTINF:-1 group-title="ESPORTES" tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN EXTRA FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175016
+#EXTINF:-1 group-title="ESPORTES" tvg-id="espn extra.br" tvg-name="ESPN EXTRA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175137
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="ESPN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN FHD
+http://ev7cm.com:25461/Henrique/123456/6679
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="ESPN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/ESR.png",ESPN Extra
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175015
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175037
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
+http://ev7cm.com:25461/Henrique/123456/44924
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175036
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere1.br" tvg-name="PREMIERE 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE
+http://ev7cm.com:25461/Henrique/123456/600
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 2
+http://ev7cm.com:25461/Henrique/123456/603
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere3.br" tvg-name="PREMIERE 3" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 3
+http://ev7cm.com:25461/Henrique/123456/606
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere4.br" tvg-name="PREMIERE 4" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 4
+http://ev7cm.com:25461/Henrique/123456/608
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere5.br" tvg-name="PREMIERE 5" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 5
+http://ev7cm.com:25461/Henrique/123456/133
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere6.br" tvg-name="PREMIERE 6" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 6
+http://ev7cm.com:25461/Henrique/123456/44880
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="SPORTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv_m.png",SPORTV FHD
+http://ev7cm.com:25461/Henrique/123456/6739
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 2.br" tvg-name="SPORTV 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv2_m.png",SPORTV 2 FHD
+http://ev7cm.com:25461/Henrique/123456/6730
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 3.br" tvg-name="SPORTV3" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv3_m.png",SPORTV 3 FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175086
+
+--------------------------------------------------------FILMES & SERIADOS---------------------------------------------------------------
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="A&E.br" tvg-name="A&E" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_a-e_m.png",A&E FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175169
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="amc.br" tvg-name="AMC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/Xun",AMC FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175168
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="amc.br" tvg-name="AMC" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/Xun",AMC FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175038
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="axn.br" tvg-name="AXN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",AXN FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175165
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="cfx.br" tvg-name="FX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CFX.png",FX FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175127
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="cfx.br" tvg-name="FX HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CFX.png",FX
+http://fresat.live:8080/alvaro/alvaro/365473
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="megacine.br" tvg-name="MEGA CINE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xQQOgFd.png",MegaCine
+https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="isat.br" tvg-name="I SAT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png",I Sat HD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175111
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_megapix_m.png",MEGAPIX FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175107
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="megapix.br" tvg-name="MEGAPIX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_megapix_m.png",MEGAPIX FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/174996
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL FHD
+http://ev7cm.com:25461/Henrique/123456/593
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="paramountchannel.br" tvg-name="PARAMOUNT CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_paramount-brasil_m.png",PARAMOUNT CHANNEL FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175060
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="sony.br" tvg-name="SONY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175090
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="sony.br" tvg-name="SONY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sony_m.png",SONY 
+http://fresat.live:8080/alvaro/alvaro/365484
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="space.br" tvg-name="SPACE HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_space_m.png",SPACE FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175089
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="syfy.br" tvg-name="SYFY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY FHD
+http://fresat.live:8080/alvaro/alvaro/365482
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="syfy.br" tvg-name="SYFY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_syfy-1_m.png",SYFY FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175084
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175081
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecineaction.br" tvg-name="TELECINE ACTION" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC2.png",TELECINE ACTION FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175035
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinecult.br" tvg-name="TELECINE CULT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC5.png",TELECINE CULT FHD
+http://fresat.live:8080/alvaro/alvaro/365466
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinecult.br" tvg-name="TELECINE CULT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC5.png",TELECINE CULT
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175080
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC6.png",TELECINE FUN FHD
+http://fresat.live:8080/alvaro/alvaro/365467
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinefun.br" tvg-name="TELECINE FUN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC6.png",TELECINE FUN 
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175079
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",TELECINE PIPOCA
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175078
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePipoca.br" tvg-name="TELECINE PIPOCA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/TeleCine/TELECINE%20PIPOCA.png",TELECINE PIPOCA
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175030
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC1.png",TELECINE PREMIUM
+http://fresat.live:8080/alvaro/alvaro/365468
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC1.png",TELECINE PREMIUM
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175077
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC3.png",TELECINE TOUCH
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175076
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/TC3.png",TELECINE TOUCH
+http://fresat.live:8080/alvaro/alvaro/365469
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175074
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tnt.br" tvg-name="TNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt_m.png",TNT 
+http://fresat.live:8080/alvaro/alvaro/365477
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="tntseries.br" tvg-name="TNT SERIES" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-series_m.png",TNT SERIES
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132264
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="universalchannel.br" tvg-name="UNIVERSAL CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_universal_m.png",UNIVERSAL CHANNEL
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175069
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="universalchannel.br" tvg-name="UNIVERSAL CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_universal_m.png",UNIVERSAL CHANNEL
+http://fresat.live:8080/alvaro/alvaro/365490
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="universalchannel.br" tvg-name="UNIVERSAL CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_studio-universal_m.png",UNIVERSAL CHANNEL
+http://fresat.live:8080/alvaro/alvaro/365450
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/WARNER%20TV.png",WARNER CHANNEL
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175067
+#EXTINF:-1 group-title="FILMES & SERIADOS" tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/Filmes/WARNER%20TV.png",WARNER CHANNEL
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/174999
+
+--------------------------------------------------------INFANTÍS------------------------------------------------------------------------
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="animetv.br" tvg-name="Anime TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="Boomerang.br" tvg-name="BOOMERANG" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_boomerang_m.png",BOOMERANG
+http://fresat.live:8080/alvaro/alvaro/365429
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cartoon_m.png",CARTOON NETWORK
+http://fresat.live:8080/alvaro/alvaro/365471
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="DiscoveryKids.br" tvg-name="DISCOVERY KIDS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-kids_m.png",DISCOVERY KIDS FHD
+http://fresat.live:8080/alvaro/alvaro/365485
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="DisneyChannel.br" tvg-name="DISNEY CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_disney_m.png",DISNEY CHANNEL
+http://fresat.live:8080/alvaro/alvaro/365455
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="DisneyJunior.br" tvg-name="DISNEY JR" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg",DISNEY JR
+http://fresat.live:8080/alvaro/alvaro/365456
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="DisneyXD.br" tvg-name="DISNEY XD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/a91621b0-29f8-49f8-aeb2-72fe578d780d_m.jpg",DISNEY XD
+http://fresat.live:8080/alvaro/alvaro/365472
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="gloobinho.br" tvg-name="GLOOBINHO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://es.wikipedia.org/wiki/Gloobinho#/media/Archivo:GloobinhoLogo.png", GLOOBINHO
+http://ev7cm.com:25461/Henrique/123456/67918
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="gloobinho.br" tvg-name="GLOOBINHO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://es.wikipedia.org/wiki/Gloobinho#/media/Archivo:GloobinhoLogo.png", GLOOBINHO
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175124
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloob_m.png",GLOOB
+http://ev7cm.com:25461/Henrique/123456/530
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="Gloob.br" tvg-name="GLOOB FHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_gloob_m.png",GLOOB HD
+http://ev7cm.com:25461/Henrique/123456/529
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="gospelcartoon.br" tvg-name="GOSPEL CARTOON" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aoq9CGU.png",Gospel Cartoon
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="NatGeokids.br" tvg-name="NAT GEO KIDS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://seriepolis.com/wp-content/uploads/2017/06/natgo.png",NAT GEO KIDS
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175103
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="NatGeokids.br" tvg-name="NAT GEO KIDS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://seriepolis.com/wp-content/uploads/2017/06/natgo.png",NAT GEO KIDS
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/174998
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="Nick.br" tvg-name="NICK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/ZjLSLiY.png",NICK
+http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="Nickjr.br" tvg-name="NICK JR" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_nick-junior-brazil_m.png",NICK JR
+http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="Nickjr.br" tvg-name="NICK JR" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_nick-junior-brazil_m.png",NICK JR
+http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="retroncartoon.br" tvg-name="RETRO CARTOON" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/cyfu3qP.png",Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 group-title="INFANTÍS" tvg-id="Tooncast" tvg-name="TOONCAST FULLHD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png",TOONCAST FULLHD
+http://fresat.live:8080/alvaro/alvaro/365449
+
+--------------------------------------------------------CANAIS INTERNACIONAIS---------------------------------------------------------------
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="443" tvg-name="ARAB TV" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/443_Arab_TV.png",ARAB TV
+https://5e36c064a2f6a.streamlock.net:1936/8614/8614/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="Calitv.co" tvg-name="CALI TV" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.imgur.com/sRZN7Tn.png",CALI TV
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="caracol" tvg-name="CARACOL" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/R0Tbd1Q/caracoltv.png",CARACOL HD
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMCTV.us" tvg-name="CMC" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/aDReLcK.png",CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMCUSA.us" tvg-name="CMC USA" tvg-country="USA" tvg-language="English" tvg-logo="https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png",CMC USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMT.us" tvg-name="CMT MUSIC" tvg-country="USA" tvg-language="English" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a4ade2ff43b5576b2947387/1515097337806-O5TQSIC2XBO8QAWO2WXL/ke17ZwdGBToddI8pDm48kPx25wW2-RVvoRgxIT6HShBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwGbtSA7WutlFA3XjmDXUDFwmxX_uEhqHOBUlPnU0mYmf1Qvd6diXKmxQIX-f1CXeo/cmtmusic.jpg?format=750w",CMT MUSIC
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMT.us" tvg-name="CMT" tvg-country="USA" tvg-language="English" tvg-logo="https://static.epg.best/us/CMT.us.png",CMT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMT.us" tvg-name="CMT Equal Play" tvg-country="USA" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png",CMT Equal Play
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CMTPlutoTV.us" tvg-name="CMT Pluto TV" tvg-country="USA" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png",CMT Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcc42446750e200093b15e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnn" tvg-name="CNN ESPAÑOL" tvg-country="USA" tvg-language="SPANISH" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",CNN ESPAÑOL
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132152
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="cnn chile" tvg-name="CNN CHILE" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/789_CNN_Chile.jpg",CNN CHILE
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="CNN.us" tvg-name="CNN" tvg-country="USA" tvg-language="ENGLISH" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",CNN
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132153
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="FMTV1.ec" tvg-name="FMTV 1" tvg-logo="https://www.m3u.cl/logo/481_FMTV_1.png", FMTV 1
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="FMTV2Movies.ec" tvg-name="FMTV 2 Movies" tvg-logo="https://www.m3u.cl/logo/482_FMTV_2_Movies.png", FMTV 2 Movies
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="FMTV3SuperCine.ec" tvg-name="FMTV 3 Super Cine" tvg-logo="https://www.m3u.cl/logo/483_FMTV_3_Super_Cine.png", FMTV 3 Super Cine
+https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="Hallmark.us" tvg-name="Hallmark Channel" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg",HALLMARK CHANNEL
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg",HALLMARK DRAMA
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg",HALLMARK MOVIES & MORE
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-country="USA" tvg-language="English" tvg-logo="https://i.imgur.com/IytaaVV.jpg",HALLMARK MOVIES & MYSTERIES
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hbo.mx" tvg-name="HBO" tvg-language="SPANISH" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO 
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=hT5UKc9VHeoG28YQPntNEg&e=1618867749
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="hbo.mx" tvg-name="HBO" tvg-language="SPANISH" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO 
+https://wuvpagz9jxqt9uvg.ezcdn483.net:8443/hls/lbqtn3.m3u8?s=hT5UKc9VHeoG28YQPntNEg&e=1618867749
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
+http://ky-tv.cc:25461/cde123/cde123/514353
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="lasestrellas" tvg-name="LAS ESTRELLAS" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://www.eleconomista.com.mx/__export/1568748063899/sites/eleconomista/img/2019/09/17/canal-2-las-estrellas-televisa.jpg_423392900.jpg",LAS ESTRELLAS
+http://ky-tv.cc:25461/cde123/cde123/514551
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="panico" tvg-name="PANICO" tvg-country="MEXICO" tvg-language="SPANISH" tvg-logo="https://i.ibb.co/V3gpcXM/download.jpg",PANICO
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="RCNHD.co" tvg-name="RCN" tvg-country="COLOMBIA" tvg-language="SPANISH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png",RCN HD
+http://saypopular.com:25461/oscar/20gar/52262
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TVChile.cl" tvg-name="TV CHILE 1" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV CHILE 1
+http://fresat.live:8080/alvaro/alvaro/307892
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TVChile.cl" tvg-name="TV CHILE 2" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV CHILE 2
+http://fresat.live:8080/alvaro/alvaro/307893
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TVChile.cl" tvg-name="TV CHILE 3" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/491_TV_Chile.png",TV CHILE 3
+http://fresat.live:8080/alvaro/alvaro/307894
+#EXTINF:-1 group-title="INTERNACIONAIS" tvg-id="TVN.cl" tvg-name="TVN" tvg-country="CHILE" tvg-language="SPANISH" tvg-logo="https://www.m3u.cl/logo/452_TVN.png",TVN CL
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
+
+--------------------------------------------------------NOTICÍAS-----------------------------------------------------------------------
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="bandnews.br" tvg-name="BAND NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_band-news_m.png",BAND NEWS FHD
+http://ev7cm.com:25461/Henrique/123456/40259
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="bandnews.br" tvg-name="BAND NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_band-news_m.png",BAND NEWS
+http://ev7cm.com:25461/Henrique/123456/250
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="globonews.br" tvg-name="GLOBO NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-news-hd_m.png",GLOBO NEWS FHD
+http://ev7cm.com:25461/Henrique/123456/506
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="globonews.br" tvg-name="GLOBO NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-news-hd_m.png",GLOBO NEWS
+http://lista.lorddark.club/5247/5247/19233
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="globonews.br" tvg-name="GLOBO NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-news-hd_m.png",GLOBO NEWS
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175126
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CN8.png",CNN BRASIL FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175154
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/CN8.png",CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_record-news-hd_m.png",RECORD NEWS FHD
+http://ev7cm.com:25461/Henrique/123456/508
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_record-news-hd_m.png",RECORD NEWS FHD
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175094
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="recordnews.br" tvg-name="RECORD NEWS MA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PafEXRA.png",Record News - TV Guará (MA)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+#EXTINF:-1 group-title="NOTICÍAS" tvg-id="tvvideonews.br" tvg-name="TV VIDEONEWS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/fX9C15m.png",TVídeoNews
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+
+
+--------------------------------------------------------MÚSICA---------------------------------------------------------------
+#EXTINF:-1 group-title="MÚSICA" tvg-id="mtv.br" tvg-name="MTV BR HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_mtv-brasil_m.png",MTV
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175106
+#EXTINF:-1 group-title="MÚSICA" tvg-id="mtv.br" tvg-name="MTV BR HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_mtv-brasil_m.png",MTV
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132219
+#EXTINF:-1 group-title="MÚSICA" tvg-id="bis.br" tvg-name="BIS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/TDh",BIS
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132145
+#EXTINF:-1 group-title="MÚSICA" tvg-id="bis.br" tvg-name="BIS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/TDh",BIS
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175159
+
+--------------------------------------------------------CANAIS PREMIUM------------------------------------------------------------------------
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.br" tvg-name="HBO HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO FHD
+http://ev7cm.com:25461/Henrique/123456/6743
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.br" tvg-name="HBO HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO FHD
+http://fresat.live:8080/alvaro/alvaro/365458
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.br" tvg-name="HBO HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO FHD
+http://ev7cm.com:25461/Henrique/123456/6753
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo.br" tvg-name="HBO HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/3230fdb1-1bdd-4155-a842-d9461066c4a4_m.jpg",HBO
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/115163
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2 FHD
+http://ev7cm.com:25461/Henrique/123456/6749
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png",HBO 2
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175118
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
+http://ev7cm.com:25461/Henrique/123456/560
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
+http://ev7cm.com:25461/Henrique/123456/561
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO EXTREME" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAP.png",HBO XTREME
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175113
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY FHD
+http://ev7cm.com:25461/Henrique/123456/6745
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-family-hd_m.png",HBO FAMILY
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132206
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MXE.png",HBO MUNDI
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132208
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbomundi.br" tvg-name="HBO MUNDI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MXE.png",HBO MUNDI
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175024
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS FHD
+http://ev7cm.com:25461/Henrique/123456/6755
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS FHD
+http://ev7cm.com:25461/Henrique/123456/6751
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboplus.br" tvg-name="HBO PLUS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/hn_hbo-plus-mexico_m.png",HBO PLUS
+http://fresat.live:8080/alvaro/alvaro/365461
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (BR)
+http://ev7cm.com:25461/Henrique/123456/84433
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hbopop.br" tvg-name="HBO POP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://www.tvplus.com.br/images/logos/MAX.png",HBO POP FHD (BR)
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132210
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE
+http://ev7cm.com:25461/Henrique/123456/6756
+#EXTINF:-1 group-title="PREMIUM" tvg-id="hboextreme.br" tvg-name="HBO SIGNATURE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_hbo-signature-1_m.png",HBO SIGNATURE
+http://tu22.frtsaopaulo.tech:80/applevisoft/258749633/132211
+#EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/174994
+#EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
+http://ev7cm.com:25461/Henrique/123456/282
+#EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
+http://ev7cm.com:25461/Henrique/123456/283
+#EXTINF:-1 group-title="PREMIUM" tvg-id="cinemax.br" tvg-name="CINEMAX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_cinemax-basic_m.png",CINEMAX
+http://ev7cm.com:25461/Henrique/123456/285
+#EXTINF:-1 group-title="PREMIUM" tvg-id="StarChannel.br" tvg-name="STAR CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1c2tam.png",STAR CHANNEL
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175134
+#EXTINF:-1 group-title="PREMIUM" tvg-id="StarChannel.br" tvg-name="STAR CHANNEL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1c2tam.png",STAR CHANNEL
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175134
+#EXTINF:-1 group-title="PREMIUM" tvg-id="StarCinema.br" tvg-name="STAR CINEMA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.i6iCkuKXRTO5YHqDsaa3BgHaFm&pid=Api&P=0&w=264&h=200",STAR CINEMA
+************************************************
+#EXTINF:-1 group-title="PREMIUM" tvg-id="StarHits1.br" tvg-name="STAR HITS 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.BMEmeH_3MuvqlPkXtXW5SwHaDv&pid=Api&P=0&w=387&h=196",STAR HITS 1
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175132
+#EXTINF:-1 group-title="PREMIUM" tvg-id="StarHits2.br" tvg-name="STAR HITS 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.BMEmeH_3MuvqlPkXtXW5SwHaDv&pid=Api&P=0&w=387&h=196",STAR HITS 2
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175131
+#EXTINF:-1 group-title="PREMIUM" tvg-id="StarLife.br" tvg-name="STAR LIFE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png",STAR LIFE
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175133
+
+--------------------------------------------------------RADIOS---------------------------------------------------------------
+#EXTINF:-1 group-title="RADIOS" tvg-id="cbnrj.br" tvg-name="CBN RJ" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Vs3B9Ie.png",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="cbnsp.br" tvg-name="CBN SP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Vs3B9Ie.png",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="radiofunk.br" tvg-name="radiofunk" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="radiopagode.br" tvg-name="RADIO PAGODE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="radiorock.br" tvg-name="RADIO ROCK" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="radiompb.br" tvg-name="RADIO MPB" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="radiosertanejo.br" tvg-name="RADIO SERTANEJO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="radiosertanejoromantico.br" tvg-name="RADIO SERTANEJO ROMANTICO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Sertanejo Romântico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="radioanos80.br" tvg-name="RADIO ANOS 80" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="radioanos90.br" tvg-name="RADIO ANOS 90" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="radioanos2000.br" tvg-name="RADIO ANOS 2000" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id=".br" tvg-name="RADIO POP NACIONAL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="radiorock.br" tvg-name="RADIO ROCK POP NACIONAL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="radiojpop.br" tvg-name="RADIO J-POP" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="radioromanticas.br" tvg-name="RADIO ROMANTICAS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/MmJBR9j.png",Rádio Românticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+#EXTINF:-1 group-title="RADIOS" tvg-id="radiomega.br" tvg-name="RADIO MEGA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/5rNlZDp.png",Rádio Mega FM
+http://216-155-149-152.webnow.com.br:80/mega.mp3
+
+--------------------------------------------------------VARIEDADES---------------------------------------------------------------
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="bonstempostv.br" tvg-name="Bons Tempos TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/HlSVlfk.png",Bons Tempos TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="canalsaude.br" tvg-name="CANAL SAUDE" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YXaX0wZ.jpg",Canal Saúde
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="cbtv.br" tvg-name="CBTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Cj6kg2X.png",CBTV Now
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="dogtv.br" tvg-name="DOG TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://paseadordeperros.com/blog/wp-content/uploads/2012/06/Dog-TV.jpg",DogTV
+******************************************
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="e!.br" tvg-name="E!" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/DKx",E!
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175141
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="e!.br" tvg-name="E!" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/DKx",E!
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/174993
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="fashiontv.br" tvg-name="FASHION TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1jtRh4S.png",FashionTV
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="fishtv.br" tvg-name="Fish TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://a5.vc/StA",Fish TV
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175136
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="gnt.br" tvg-name="GNT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://1.bp.blogspot.com/-W0IQ7RlOYW0/WjWcENCjYPI/AAAAAAABCQ0/qBNv1FOTb3oMq-ed2o0V_vc3dcJaSRfjACLcBGAs/w1200-h630-p-k-no-nu/gnt.png",GNT
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175123
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="curta.br" tvg-name="CURTA!" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta!.svg/800px-Logo_of_Curta!.svg.png",CURTA!
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/174991
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="MaisGlobosat.br" tvg-name="GLOBOSAT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://brandeps.com/logo-download/G/Globosat-logo-vector-01.svg",GLOBOSAT HD
+http://ev7cm.com:25461/Henrique/123456/12580
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="MaisGlobosat.br" tvg-name="GLOBOSAT" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://brandeps.com/logo-download/G/Globosat-logo-vector-01.svg",GLOBOSAT SD
+http://ev7cm.com:25461/Henrique/123456/527
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Mundotv.br" tvg-name="MUNDO TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ybdp3qq.png",Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="off.br" tvg-name="OFF" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://w7.pngwing.com/pngs/10/980/png-transparent-canal-off-brazil-logo-globosat-television-channel-40-off-television-text-trademark.png",OFF
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175098
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="PlayTV.br" tvg-name="PLAY" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",PLAY
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175097
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="PrimeBoxBrasil.br" tvg-name="PRIME BOX" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/PrimeBoxBrazil2019.png",PRIME BOX
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175096
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Viva.br" tvg-name="VIVA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/Variedades/VIVA.png",VIVA
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/174985
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="Viva.br" tvg-name="VIVA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://streamd.cmsppv.life/LOGOS/Variedades/VIVA.png",VIVA
+http://tv4k.be:8888/8kzNAoJ66T/6jrMJgVwhL/175068
+#EXTINF:-1 group-title="VARIEDADES" tvg-id="yeeaaahtv.br" tvg-name="YEEAAH TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jca1GLL.png",YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+--------------------------------------------------------FILMES ESTREIOS---------------------------------------------------------------
+#EXTINF:-1 group-title="FILMES ESTREIOS" tvg-name="Aves de Rapina: Arlequina e sua Emancipação Fantabulosa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg",Aves de Rapina: Arlequina e sua Emancipação Fantabulosa (2020)
+https://m100.uqload.org/3rfk42x3mzw2q4drdl37b5flafa3ne7bpksevmb6z526uq42rgqrddml56dq/v.mp4
+
+#EXTINF:-1 group-title="FILMES ESTREIOS" tvg-name="Liga de la Justicia" tvg-logo="https://image.tmdb.org/t/p/w185/pI25ennflmJ1R9q7ZTI681f0WBb.jpg",Liga de la justicia
+https://00f74ba44b6042faaab89482037f0e500f3b21b7cc-apidata.googleusercontent.com/download/storage/v1/b/vvtas/o/tm791373_LAT_HD?jk=AFshE3VIYcfEk6FYou0y8algCE43AS398CMjR7xPD521Y56Td2hsbbt5v-CYP5ljvo46EYHnyVukEniL7XxBhC48Vvt7j45QWy68GayMOSdiUV9J7aAkL-Eqv7_zcpifTlBj-3_3BmP7JtheZBkT9hAWqznnlSuasqy7qDbGDPRMLRxeIKIhSo34KQpWCVu5oyxB6vfliGtoAX6QzfZUAr4tnInnNNiwfpw7UypyRcY9Hryo7EfgGDtqCDGEPrJXmNELIfGaBuoXfBj85QruJY9cnw4gukEvxN3hWPytviY1qdm9xXV8B6kyYlcMi2TEHK8XfpqB8J7w48fk2VKRysT-Qs6faNnuyjmL9PlE4fd4KGgZ7C2S0tmEEVpI8_Y8ocvY3kI9mLrIJYPKz5uwYK8f8kuhwPZ8cribiP5GjPko1tM65Goajc44C1auKBDXbae3vLvj2c6eiJIZH3rLZaVSPE6K0s-1OodJXbEV0IkCQ8Ye7W5ix9Ch_9_lf__h6VM0x-bwKfXNokYFEchHHe42R8-DCY_y867OypApJwWl2-2fxdT1fXvhx7kFX_bV6cBkNawqb_ZG5K1BVVibQT1B1b0BoDIllDECfjW8acI2rT3chPiaaSHywuvzUxK5g8eJQE8164bGEoPRjm_i78b6b5la1nL0PrsR7Jw6VMQJx5y_ftDlJUQlMsMeW7w-f5nEL-yZgx3BAePouQwv-MsFs9cI1M5J2mR1QI5sCa7cOEvuHEGe8iCA5CL9poCBTrpWDOSwDP9GOqQi9N-r1ghjmxKlUKMeU_IEUxPtqSrQ5yUzzynuvi71YRQ7aSbxRBgKpSCAG7Kv0wZZ510eHhQhJwBADxrbT9dqW1WFHOoJhIvDDBEbZEHmATdFzgscfqU79_ume-rYdznOgvNqmtiAvLVhf_JNLTirnLgCKTWDtViQqblGbEBuJIMsH5vi3QCH0kk_fQXm04NHStcmzIg&isca=1
+
+#EXTINF:-1 group-title="FILMES ESTREIOS" tvg-name="Mulan" tvg-logo="https://pelis28.nu/wp-content/uploads/2020/06/mulan.jpg",Mulan
+https://908373049.tapecontent.net/radosgw/PX0yaG21KLTxmd/K6UWgMUwxAmbAr7bUQeWUMzqrMMB_uGsKw57BYpf_Lsd8pzcT07EGdDNxLBFI8SHtd5IDdRsZW-UQKHBBzJmJAQzbyZXJtAztApTFzLMiTVqnUL8NJB9gfE_76pyfm_Ea_Yb5FGqlG8pBJEU03PM9E5e6z9TM_ttos9r35IJ1KoIhIhFyVZ68tYKY-mmfwvmrsYmYd5C1ioop8IA7ToZQCZCLCLdhaoEBq5732w3wcr3Hw1mkMhy3E8mF1VpyQdu6VoIwLzev7RDSLrUxAtWK-JjElRUINQFW1bDykMhjvIXlL3i9qHFGj-_JvY/Kr25Ra8qgp1-streamtape.mp4?stream=1
+
+#EXTINF:-1 group-title="FILMES ESTREIOS" tvg-name="Mujer Maravilla 1984" tvg-logo="https://pelis28.nu/wp-content/uploads/2021/01/nvCsNbIaYo96GrM2IuQiiVOkq5O.jpg",Mujer Maravilla 1984
+https://waaw.tv/f/RiwqfH7feWVx
+
+#EXTINF:-1 group-title="FILMES ESTREIOS" tvg-name="Pequeños Detalles" tvg-logo="https://image.tmdb.org/t/p/w185/dOb7bALn1uZZ7XYX1NT5Xfe9kbE.jpg",Pequeños Detalles
+https://00f74ba44bf0a482344d01cb9abacc2ac1a958fc34-apidata.googleusercontent.com/download/storage/v1/b/vvtas/o/tm602269_LAT_HD?jk=AFshE3X0n6d5yQp_WVkKrGVcz8F7w1_PvPt5HiUzGDCeyDe9YiVnSleEHFnfvhf5-p5Wr16ubaEvTo-ZaV0XyM1z2Wv1xJhu0wo16RcLAo6BT_zdZy-ULN45Cy6F7psFpsDco2Qda70nxhwhhfbe4IcYm3nY4t0Wgs7MWF91XJTmt_rMeg_bcrP1iydFSb2dQIOcH1jSY1wJLge2VuKSg8hN8lU4zHRg2hBTGQnkFueCfKBdfRaQCVh5WaZ6oyspvUmcxD5zeUCIx4G_Nr0MR6cPIQ2cdynQ8Nkl6j2KkgcSkHGaTgcOyXJARSu5Ss_9RVLlmC-BJ2d7us6TUQPSsL4ANAghzz3MYA0_P_PDOPnhcd9vIyMvgKR7HBgqTbmxAXeTBv6Jhjqta-bgKd5Z9j5fDZYx4a_gjzybhNVSBRqUGJcs0Q6V-vPi1lOLQoQWDtg1Tau4F2bSjgfBC-nTqZki06-4xRfA9NU-yiv_eHjI7in_0wnzo_5oloQ_pbfVzhM2bxsz5-NVcSKrbsltpG6d2PDtKfog8_9g2tJEzUCI3JMj6_yC4A0PZXJqPmS51Txt5n6AZKZIoadhOx47oFl6bvhSvM8G151-KpCmBzluP-ZUg_tNey1MMjyaKueIOkkxsku15Rqf858Uzhmw60MmPPegHgRFyuhaufGpy_uJomvTfQnKl8AXCd1n1ATn1Cpx4zVJDPcvwP8U60YUswLbt4HY-G3AtkZPzspQUx72Tm52aLo_lBZ3p5OH_Ur84VGv6iWmAR8Kqek9do1OrDPfOHgCyNpgS2lfY9xFubXHVNLM5eatu4Np9_7XKvTDAuu3HpmLpFtkOavEMncfSi_ozUOrLy6wrC8TfuIZCW48uNOR4q9DoGNHTPqI97OAJE0tZ8V6JVGdH6XMBLOrkczBR4CveoJ5-yhU-JS1KMlUGh2v1mMVvCGrzhpOQmW9QhoAWT_qaNKmAIrlAJkML50&isca=1
+
+#EXTINF:-1 group-title="FILMES ESTREIOS" tvg-name="Chaos Walking" tvg-logo="http://gnula.nu/wp-content/uploads/2021/03/Chaos_Walking_poster_usa.jpg",Chaos Walking
+https://megaup.net/1Cjp1/ch40s.w4lkng.2021.hdrip.720p.latino.mp4
