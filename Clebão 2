@@ -1,8 +1,22 @@
 #EXTM3U
-#EXTINF:-1,BR: CINE 2 http://163.172.103.202:8880/287994003710/287994003710/30899 
-#EXTINF:-1,BR: CINE 3 http://163.172.103.202:8880/287994003710/287994003710/30900 
-#EXTINF:-1,BR: CINE 4 http://163.172.103.202:8880/287994003710/287994003710/30901 
-#EXTINF:-1,BR: CINE 5 http://163.172.103.202:8880/287994003710/287994003710/30902 
-#EXTINF:-1,BR: CINE 6 http://163.172.103.202:8880/287994003710/287994003710/30903 
-#EXTINF:-1,BR: CINE 7 http://163.172.103.202:8880/287994003710/287994003710/30904 
-#EXTINF:-1,BR: CINE 8 http://163.172.103.202:8880/287994003710/287994003710/30905
+
+#EXTINF:-1 tvg-id="CINE 2" tvg-name="CINE 2" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 2
+http://163.172.103.202:8880/287994003710/287994003710/30899
+
+#EXTINF:-1 tvg-id="CINE 3" tvg-name="CINE 3" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 3 
+http://163.172.103.202:8880/287994003710/287994003710/30900
+
+#EXTINF:-1 tvg-id="CINE 4" tvg-name="CINE 4" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 4
+http://163.172.103.202:8880/287994003710/287994003710/30901
+
+#EXTINF:-1 tvg-id="CINE 5" tvg-name="CINE 5" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 5 http://163.172.103.202:8880/287994003710/287994003710/30902
+
+#EXTINF:-1 tvg-id="CINE 6" tvg-name="CINE 6" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 6
+http://163.172.103.202:8880/287994003710/287994003710/30903
+
+#EXTINF:-1 tvg-id="CINE 7" tvg-name="CINE 7" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 7
+http://163.172.103.202:8880/287994003710/287994003710/30904
+
+#EXTINF:-1 tvg-id="CINE " tvg-name="CINE 8" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 8
+http://163.172.103.202:8880/287994003710/287994003710/30905
+  
