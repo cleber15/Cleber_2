@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CINE 1" tvg-name="CINE 1" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 1
+http://163.172.103.202:8880/287994003710/287994003710/30898
+
 #EXTINF:-1 tvg-id="CINE 2" tvg-name="CINE 2" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 2
 http://163.172.103.202:8880/287994003710/287994003710/30899
 
