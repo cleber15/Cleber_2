@@ -1,25 +1,14 @@
-#EXTM3U
+#EXTINF:-1 tvg-id="SPORT•TV 1 HD" tvg-name="SPORTV•TV 1 HD" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8=" group-title="CANAIS | PORTUGAL",SPORT•TV 1 HD
+http://163.172.103.202:8880/287994003742/287994003742/30919
 
-#EXTINF:-1 tvg-id="CINE 1" tvg-name="CINE 1" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 1
-http://163.172.103.202:8880/287994003710/287994003710/30898
+#EXTINF:-1 tvg-id="SPORT•TV 2 HD" tvg-name="SPORTV•TV 2 HD" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8=" group-title="CANAIS | PORTUGAL",SPORT•TV 2 HD
+https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/u225jtufy2dkv.m3u8?s=2mAT1g7HOhwUGq3cpdx4VQ&e=1621281423
 
-#EXTINF:-1 tvg-id="CINE 2" tvg-name="CINE 2" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 2
-http://163.172.103.202:8880/287994003710/287994003710/30899
+#EXTINF:-1 tvg-id="SPORT•TV 3 HD" tvg-name="SPORTV•TV 3 HD" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8=" group-title="CANAIS | PORTUGAL",SPORT•TV 3 HD
+https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/t69y1s69ffvz.m3u8?s=j_YvVX4RJUUU3hDk1Cc2Ng&e=1621282767
 
-#EXTINF:-1 tvg-id="CINE 3" tvg-name="CINE 3" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 3 
-http://163.172.103.202:8880/287994003710/287994003710/30900
+#EXTINF:-1 tvg-id="SPORT•TV 4 HD" tvg-name="SPORTV•TV 4 HD" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8=" group-title="CANAIS | PORTUGAL",SPORT•TV 4 HD
+https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/0zer896oz3mv6.m3u8?s=7zeAipIVN5iRhACeBYRm6w&e=1621282968
 
-#EXTINF:-1 tvg-id="CINE 4" tvg-name="CINE 4" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 4
-http://163.172.103.202:8880/287994003710/287994003710/30901
-
-#EXTINF:-1 tvg-id="CINE 5" tvg-name="CINE 5" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 5 http://163.172.103.202:8880/287994003710/287994003710/30902
-
-#EXTINF:-1 tvg-id="CINE 6" tvg-name="CINE 6" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 6
-http://163.172.103.202:8880/287994003710/287994003710/30903
-
-#EXTINF:-1 tvg-id="CINE 7" tvg-name="CINE 7" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 7
-http://163.172.103.202:8880/287994003710/287994003710/30904
-
-#EXTINF:-1 tvg-id="CINE " tvg-name="CINE 8" tvg-logo="https://skytvplanos.com.br/img/channels/lg-267-canal-amc-hd.png" group-title="CANAIS | FILMES E SÉRIES",CINE 8
-http://163.172.103.202:8880/287994003710/287994003710/30905
-  
+#EXTINF:-1 tvg-id="SPORT•TV 5 HD" tvg-name="SPORTV•TV 5 HD" tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NjQ4Dn34p+G0ULmvdnYiBrTNPqq1TgwnsxhzhK8QSTBNRegz3GcGL48YRAuKOt2vBgMUZ3ysmGS0vMpOXvVgOJ9pFA177AMVV9TSAY7k8onHxN8=" group-title="CANAIS | PORTUGAL",SPORT•TV 5 HD
+https://4vs0ev185hsp00i8.ezcdn285.net:8443/hls/war3u.m3u8?s=q_yqlUSqdqd_PWkJmFRMhQ&e=1621283128
